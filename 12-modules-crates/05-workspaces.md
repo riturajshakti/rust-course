@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 12.4 Cargo.toml in Depth](04-cargo-toml.md) · [Course Index](../README.md) · [12.6 Features and Conditional Compilation →](06-features.md)
 
 # 12.5 — Workspaces
 
@@ -471,4 +471,4 @@ are additive. Keep the workspace entry minimal and add features per member.
 
 ---
 
-[← Course Index](../README.md)
+[← 12.4 Cargo.toml in Depth](04-cargo-toml.md) · [Course Index](../README.md) · [12.6 Features and Conditional Compilation →](06-features.md)

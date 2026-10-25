@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 5.3 Tuple Structs and Unit Structs](03-tuple-unit-structs.md) · [Course Index](../README.md) · [5.5 Option: No More Null →](05-option.md)
 
 # 5.4 — Enums and Variants with Data
 
@@ -491,4 +491,4 @@ the receiver. Use `&self` unless the method is meant to consume.
 
 ---
 
-[← Course Index](../README.md)
+[← 5.3 Tuple Structs and Unit Structs](03-tuple-unit-structs.md) · [Course Index](../README.md) · [5.5 Option: No More Null →](05-option.md)

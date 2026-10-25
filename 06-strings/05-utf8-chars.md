@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 6.4 Searching, Splitting, and Replacing](04-search-split.md) · [Course Index](../README.md) · [6.6 Formatting and the format! Family →](06-formatting.md)
 
 # 6.5 — UTF-8, Chars, Bytes, and Grapheme Safety
 
@@ -491,4 +491,4 @@ identical. Normalize first.
 
 ---
 
-[← Course Index](../README.md)
+[← 6.4 Searching, Splitting, and Replacing](04-search-split.md) · [Course Index](../README.md) · [6.6 Formatting and the format! Family →](06-formatting.md)

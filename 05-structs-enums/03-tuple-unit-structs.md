@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 5.2 Methods and Associated Functions](02-methods.md) · [Course Index](../README.md) · [5.4 Enums and Variants with Data →](04-enums.md)
 
 # 5.3 — Tuple Structs and Unit Structs
 
@@ -379,4 +379,4 @@ address.
 
 ---
 
-[← Course Index](../README.md)
+[← 5.2 Methods and Associated Functions](02-methods.md) · [Course Index](../README.md) · [5.4 Enums and Variants with Data →](04-enums.md)

@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 11.6 Cow: Clone on Write](06-cow.md) · [Course Index](../README.md) · [12.1 Modules and Visibility →](../12-modules-crates/01-modules.md)
 
 # 11.7 — Weak References and Cycles
 
@@ -469,4 +469,4 @@ back, and `Drop` side effects that never happen.
 
 ---
 
-[← Course Index](../README.md)
+[← 11.6 Cow: Clone on Write](06-cow.md) · [Course Index](../README.md) · [12.1 Modules and Visibility →](../12-modules-crates/01-modules.md)

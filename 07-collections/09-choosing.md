@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 7.8 VecDeque, BinaryHeap, LinkedList](08-other-collections.md) · [Course Index](../README.md) · [8.1 panic! and When to Use It →](../08-error-handling/01-panic.md)
 
 # 7.9 — Choosing the Right Collection
 
@@ -315,4 +315,4 @@ not the bottleneck. Start with `Vec`, profile, then change one thing.
 
 ---
 
-[← Course Index](../README.md)
+[← 7.8 VecDeque, BinaryHeap, LinkedList](08-other-collections.md) · [Course Index](../README.md) · [8.1 panic! and When to Use It →](../08-error-handling/01-panic.md)

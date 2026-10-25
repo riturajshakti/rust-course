@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 1.4 rustfmt, Clippy, and rust-analyzer](04-tooling.md) · [Course Index](../README.md) · [2.1 Variables, Mutability, and Shadowing →](../02-syntax-basics/01-variables.md)
 
 # 1.5 — How Rust Thinks: A Mental Model
 
@@ -530,4 +530,4 @@ the two suggested fixes.
 
 ---
 
-[← Course Index](../README.md)
+[← 1.4 rustfmt, Clippy, and rust-analyzer](04-tooling.md) · [Course Index](../README.md) · [2.1 Variables, Mutability, and Shadowing →](../02-syntax-basics/01-variables.md)

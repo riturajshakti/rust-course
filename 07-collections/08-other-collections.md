@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 7.7 HashSet and BTreeSet](07-sets.md) · [Course Index](../README.md) · [7.9 Choosing the Right Collection →](09-choosing.md)
 
 # 7.8 — VecDeque, BinaryHeap, LinkedList
 
@@ -526,4 +526,4 @@ cache misses cost more than the shifting you avoided.
 
 ---
 
-[← Course Index](../README.md)
+[← 7.7 HashSet and BTreeSet](07-sets.md) · [Course Index](../README.md) · [7.9 Choosing the Right Collection →](09-choosing.md)

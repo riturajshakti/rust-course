@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 14.3 Shared State with Mutex and RwLock](03-shared-state.md) · [Course Index](../README.md) · [14.5 Atomics →](05-atomics.md)
 
 # 14.4 — Send, Sync, and Thread Safety
 
@@ -440,4 +440,4 @@ traits; the compiler rejects a safe impl outright.
 
 ---
 
-[← Course Index](../README.md)
+[← 14.3 Shared State with Mutex and RwLock](03-shared-state.md) · [Course Index](../README.md) · [14.5 Atomics →](05-atomics.md)

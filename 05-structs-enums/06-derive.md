@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 5.5 Option: No More Null](05-option.md) · [Course Index](../README.md) · [5.7 Builder Pattern and Default →](07-builder-default.md)
 
 # 5.6 — Deriving Common Traits
 
@@ -490,4 +490,4 @@ derive adds `T: Clone`, so `Holder<NoClone>` has no `.clone()`.
 
 ---
 
-[← Course Index](../README.md)
+[← 5.5 Option: No More Null](05-option.md) · [Course Index](../README.md) · [5.7 Builder Pattern and Default →](07-builder-default.md)

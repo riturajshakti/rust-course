@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 3.3 for Loops and Ranges](03-for-ranges.md) · [Course Index](../README.md) · [3.5 Pattern Matching in Depth →](05-patterns.md)
 
 # 3.4 — match: Rust's Superpower
 
@@ -646,4 +646,4 @@ not an error. Catch-all goes last.
 
 ---
 
-[← Course Index](../README.md)
+[← 3.3 for Loops and Ranges](03-for-ranges.md) · [Course Index](../README.md) · [3.5 Pattern Matching in Depth →](05-patterns.md)

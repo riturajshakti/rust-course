@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 8.7 Error Handling Strategy for Libraries vs Apps](../08-error-handling/07-strategy.md) · [Course Index](../README.md) · [9.2 Defining and Implementing Traits →](02-traits.md)
 
 # 9.1 — Generic Functions and Structs
 
@@ -475,4 +475,4 @@ to read and infects callers. Write the concrete version first.
 
 ---
 
-[← Course Index](../README.md)
+[← 8.7 Error Handling Strategy for Libraries vs Apps](../08-error-handling/07-strategy.md) · [Course Index](../README.md) · [9.2 Defining and Implementing Traits →](02-traits.md)

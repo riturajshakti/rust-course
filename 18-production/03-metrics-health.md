@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 18.2 Logging and Tracing](02-tracing.md) · [Course Index](../README.md) · [18.4 Graceful Shutdown →](04-graceful-shutdown.md)
 
 # 18.3 — Metrics and Health Checks
 
@@ -486,4 +486,4 @@ aggregated across replicas. Configure buckets.
 
 ---
 
-[← Course Index](../README.md)
+[← 18.2 Logging and Tracing](02-tracing.md) · [Course Index](../README.md) · [18.4 Graceful Shutdown →](04-graceful-shutdown.md)

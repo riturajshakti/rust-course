@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 16.2 Procedural Macros Overview](02-proc-macros.md) · [Course Index](../README.md) · [16.4 unsafe Rust and Raw Pointers →](04-unsafe.md)
 
 # 16.3 — Writing a Derive Macro
 
@@ -561,4 +561,4 @@ short names.
 
 ---
 
-[← Course Index](../README.md)
+[← 16.2 Procedural Macros Overview](02-proc-macros.md) · [Course Index](../README.md) · [16.4 unsafe Rust and Raw Pointers →](04-unsafe.md)

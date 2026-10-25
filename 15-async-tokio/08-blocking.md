@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 15.7 Async Traits and Pinning](07-async-traits-pin.md) · [Course Index](../README.md) · [16.1 Declarative Macros with macro_rules! →](../16-macros-unsafe/01-macro-rules.md)
 
 # 15.8 — Blocking Code in Async Contexts
 
@@ -544,4 +544,4 @@ drop; the async one cannot, so writes can be silently lost.
 
 ---
 
-[← Course Index](../README.md)
+[← 15.7 Async Traits and Pinning](07-async-traits-pin.md) · [Course Index](../README.md) · [16.1 Declarative Macros with macro_rules! →](../16-macros-unsafe/01-macro-rules.md)

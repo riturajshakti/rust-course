@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 6.1 String vs &str](01-string-vs-str.md) · [Course Index](../README.md) · [6.3 String Operations Reference →](03-string-operations.md)
 
 # 6.2 — Creating and Growing Strings
 
@@ -552,4 +552,4 @@ the current length.
 
 ---
 
-[← Course Index](../README.md)
+[← 6.1 String vs &str](01-string-vs-str.md) · [Course Index](../README.md) · [6.3 String Operations Reference →](03-string-operations.md)

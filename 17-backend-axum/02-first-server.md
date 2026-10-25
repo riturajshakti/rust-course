@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 17.1 Serde: Serialization and Deserialization](01-serde.md) · [Course Index](../README.md) · [17.3 Routing, Path, and Query Extractors →](03-routing-extractors.md)
 
 # 17.2 — Your First Axum Server
 
@@ -432,4 +432,4 @@ Bind `0.0.0.0`.
 
 ---
 
-[← Course Index](../README.md)
+[← 17.1 Serde: Serialization and Deserialization](01-serde.md) · [Course Index](../README.md) · [17.3 Routing, Path, and Query Extractors →](03-routing-extractors.md)

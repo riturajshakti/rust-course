@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 8.6 thiserror and anyhow](06-thiserror-anyhow.md) · [Course Index](../README.md) · [9.1 Generic Functions and Structs →](../09-generics-traits/01-generics.md)
 
 # 8.7 — Error Handling Strategy for Libraries vs Apps
 
@@ -487,4 +487,4 @@ decisions the caller must make — retry, re-prompt, give up.
 
 ---
 
-[← Course Index](../README.md)
+[← 8.6 thiserror and anyhow](06-thiserror-anyhow.md) · [Course Index](../README.md) · [9.1 Generic Functions and Structs →](../09-generics-traits/01-generics.md)

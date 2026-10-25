@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 13.3 Doc Tests](03-doc-tests.md) · [Course Index](../README.md) · [13.5 Benchmarking and Criterion →](05-benchmarks.md)
 
 # 13.4 — Test Organization and Fixtures
 
@@ -644,4 +644,4 @@ usually clearer and compiles faster.
 
 ---
 
-[← Course Index](../README.md)
+[← 13.3 Doc Tests](03-doc-tests.md) · [Course Index](../README.md) · [13.5 Benchmarking and Criterion →](05-benchmarks.md)

@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 4.8 Clone, Copy, and Drop](../04-ownership/08-clone-drop.md) · [Course Index](../README.md) · [5.2 Methods and Associated Functions →](02-methods.md)
 
 # 5.1 — Defining and Instantiating Structs
 
@@ -403,4 +403,4 @@ otherwise.
 
 ---
 
-[← Course Index](../README.md)
+[← 4.8 Clone, Copy, and Drop](../04-ownership/08-clone-drop.md) · [Course Index](../README.md) · [5.2 Methods and Associated Functions →](02-methods.md)

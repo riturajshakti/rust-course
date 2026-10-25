@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 12.5 Workspaces](05-workspaces.md) · [Course Index](../README.md) · [12.7 Publishing to crates.io →](07-publishing.md)
 
 # 12.6 — Features and Conditional Compilation
 
@@ -630,4 +630,4 @@ and gives no error, forever.
 
 ---
 
-[← Course Index](../README.md)
+[← 12.5 Workspaces](05-workspaces.md) · [Course Index](../README.md) · [12.7 Publishing to crates.io →](07-publishing.md)

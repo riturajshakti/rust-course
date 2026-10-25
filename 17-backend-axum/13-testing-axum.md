@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 17.12 HTTP Clients with reqwest](12-reqwest.md) · [Course Index](../README.md) · [18.1 Configuration and Environment →](../18-production/01-config.md)
 
 # 17.13 — Testing an Axum Application
 
@@ -730,4 +730,4 @@ a 500. Use `wiremock`.
 
 ---
 
-[← Course Index](../README.md)
+[← 17.12 HTTP Clients with reqwest](12-reqwest.md) · [Course Index](../README.md) · [18.1 Configuration and Environment →](../18-production/01-config.md)

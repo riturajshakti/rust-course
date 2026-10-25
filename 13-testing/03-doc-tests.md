@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 13.2 Integration Tests](02-integration-tests.md) · [Course Index](../README.md) · [13.4 Test Organization and Fixtures →](04-organization.md)
 
 # 13.3 — Doc Tests
 
@@ -612,4 +612,4 @@ your own example. Pin the code with `compile_fail,E0308`.
 
 ---
 
-[← Course Index](../README.md)
+[← 13.2 Integration Tests](02-integration-tests.md) · [Course Index](../README.md) · [13.4 Test Organization and Fixtures →](04-organization.md)

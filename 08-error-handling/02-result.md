@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 8.1 panic! and When to Use It](01-panic.md) · [Course Index](../README.md) · [8.3 The ? Operator →](03-question-operator.md)
 
 # 8.2 — Result and Propagation
 
@@ -452,4 +452,4 @@ one error enum (lesson 8.5); callers should not unwrap twice.
 
 ---
 
-[← Course Index](../README.md)
+[← 8.1 panic! and When to Use It](01-panic.md) · [Course Index](../README.md) · [8.3 The ? Operator →](03-question-operator.md)

@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 7.3 Sorting, Searching, and Dedup](03-sort-search.md) · [Course Index](../README.md) · [7.5 HashMap Operations Reference →](05-hashmap-operations.md)
 
 # 7.4 — HashMap
 
@@ -503,4 +503,4 @@ returns `None`. `*m.entry(k).or_insert(0) += 1` handles both cases.
 
 ---
 
-[← Course Index](../README.md)
+[← 7.3 Sorting, Searching, and Dedup](03-sort-search.md) · [Course Index](../README.md) · [7.5 HashMap Operations Reference →](05-hashmap-operations.md)

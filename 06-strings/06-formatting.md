@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 6.5 UTF-8, Chars, Bytes, and Grapheme Safety](05-utf8-chars.md) · [Course Index](../README.md) · [6.7 Parsing and Converting Text →](07-parsing.md)
 
 # 6.6 — Formatting and the format! Family
 
@@ -547,4 +547,4 @@ break alignment.
 
 ---
 
-[← Course Index](../README.md)
+[← 6.5 UTF-8, Chars, Bytes, and Grapheme Safety](05-utf8-chars.md) · [Course Index](../README.md) · [6.7 Parsing and Converting Text →](07-parsing.md)

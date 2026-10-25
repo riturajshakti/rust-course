@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 1.1 Installing Rust and the Toolchain](01-install-toolchain.md) · [Course Index](../README.md) · [1.3 Anatomy of a Cargo Project →](03-project-anatomy.md)
 
 # 1.2 — Hello, Cargo: Your First Project
 
@@ -622,4 +622,4 @@ the lockfile, ignore the build directory.
 
 ---
 
-[← Course Index](../README.md)
+[← 1.1 Installing Rust and the Toolchain](01-install-toolchain.md) · [Course Index](../README.md) · [1.3 Anatomy of a Cargo Project →](03-project-anatomy.md)

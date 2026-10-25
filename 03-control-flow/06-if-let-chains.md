@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 3.5 Pattern Matching in Depth](05-patterns.md) · [Course Index](../README.md) · [4.1 Stack, Heap, and Why Ownership Exists →](../04-ownership/01-why-ownership.md)
 
 # 3.6 — if let, while let, and let else
 
@@ -623,4 +623,4 @@ it`; Clippy warns. Keep `while let` for `pop`-style draining and `peekable`.
 
 ---
 
-[← Course Index](../README.md)
+[← 3.5 Pattern Matching in Depth](05-patterns.md) · [Course Index](../README.md) · [4.1 Stack, Heap, and Why Ownership Exists →](../04-ownership/01-why-ownership.md)

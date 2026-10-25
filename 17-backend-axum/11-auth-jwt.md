@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 17.10 Validation and Request Guards](10-validation.md) · [Course Index](../README.md) · [17.12 HTTP Clients with reqwest →](12-reqwest.md)
 
 # 17.11 — Authentication with JWT
 
@@ -700,4 +700,4 @@ storage, or an `httpOnly` cookie.
 
 ---
 
-[← Course Index](../README.md)
+[← 17.10 Validation and Request Guards](10-validation.md) · [Course Index](../README.md) · [17.12 HTTP Clients with reqwest →](12-reqwest.md)

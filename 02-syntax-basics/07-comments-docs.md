@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 2.6 Constants, Statics, and Type Aliases](06-const-static.md) · [Course Index](../README.md) · [3.1 if, else if, and if as an Expression →](../03-control-flow/01-if-expressions.md)
 
 # 2.7 — Comments and Documentation Comments
 
@@ -392,4 +392,4 @@ logic into `src/lib.rs`.
 
 ---
 
-[← Course Index](../README.md)
+[← 2.6 Constants, Statics, and Type Aliases](06-const-static.md) · [Course Index](../README.md) · [3.1 if, else if, and if as an Expression →](../03-control-flow/01-if-expressions.md)

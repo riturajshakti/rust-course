@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 5.1 Defining and Instantiating Structs](01-structs.md) · [Course Index](../README.md) · [5.3 Tuple Structs and Unit Structs →](03-tuple-unit-structs.md)
 
 # 5.2 — Methods and Associated Functions
 
@@ -396,4 +396,4 @@ calls it implicitly, and you can name it `from_parts`, `with_capacity`, anything
 
 ---
 
-[← Course Index](../README.md)
+[← 5.1 Defining and Instantiating Structs](01-structs.md) · [Course Index](../README.md) · [5.3 Tuple Structs and Unit Structs →](03-tuple-unit-structs.md)

@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 10.3 The Iterator Trait](03-iterator-trait.md) · [Course Index](../README.md) · [10.5 Consumers: collect, fold, and Friends →](05-consumers.md)
 
 # 10.4 — Adapters: map, filter, and Friends
 
@@ -549,4 +549,4 @@ magnitude.
 
 ---
 
-[← Course Index](../README.md)
+[← 10.3 The Iterator Trait](03-iterator-trait.md) · [Course Index](../README.md) · [10.5 Consumers: collect, fold, and Friends →](05-consumers.md)

@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 10.2 Fn, FnMut, FnOnce](02-fn-traits.md) · [Course Index](../README.md) · [10.4 Adapters: map, filter, and Friends →](04-adapters.md)
 
 # 10.3 — The Iterator Trait
 
@@ -399,4 +399,4 @@ claim is about optimized builds.
 
 ---
 
-[← Course Index](../README.md)
+[← 10.2 Fn, FnMut, FnOnce](02-fn-traits.md) · [Course Index](../README.md) · [10.4 Adapters: map, filter, and Friends →](04-adapters.md)

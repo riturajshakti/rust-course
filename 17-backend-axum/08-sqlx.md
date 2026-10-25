@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 17.7 Middleware and tower Layers](07-middleware.md) · [Course Index](../README.md) · [17.9 Queries, Transactions, and Migrations →](09-queries-migrations.md)
 
 # 17.8 — SQLx: Connecting to Postgres
 
@@ -726,4 +726,4 @@ refused and the outage looks random.
 
 ---
 
-[← Course Index](../README.md)
+[← 17.7 Middleware and tower Layers](07-middleware.md) · [Course Index](../README.md) · [17.9 Queries, Transactions, and Migrations →](09-queries-migrations.md)

@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 7.5 HashMap Operations Reference](05-hashmap-operations.md) · [Course Index](../README.md) · [7.7 HashSet and BTreeSet →](07-sets.md)
 
 # 7.6 — BTreeMap and Ordered Data
 
@@ -445,4 +445,4 @@ time you read, you wanted a `BTreeMap`.
 
 ---
 
-[← Course Index](../README.md)
+[← 7.5 HashMap Operations Reference](05-hashmap-operations.md) · [Course Index](../README.md) · [7.7 HashSet and BTreeSet →](07-sets.md)

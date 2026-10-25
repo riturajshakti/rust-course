@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 2.2 Scalar Types: Integers, Floats, Bool, Char](02-scalar-types.md) · [Course Index](../README.md) · [2.4 Functions, Parameters, and Return Values →](04-functions.md)
 
 # 2.3 — Tuples and Arrays
 
@@ -525,4 +525,4 @@ costs nothing.
 
 ---
 
-[← Course Index](../README.md)
+[← 2.2 Scalar Types: Integers, Floats, Bool, Char](02-scalar-types.md) · [Course Index](../README.md) · [2.4 Functions, Parameters, and Return Values →](04-functions.md)

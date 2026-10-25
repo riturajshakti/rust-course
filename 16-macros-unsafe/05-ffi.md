@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 16.4 unsafe Rust and Raw Pointers](04-unsafe.md) · [Course Index](../README.md) · [17.1 Serde: Serialization and Deserialization →](../17-backend-axum/01-serde.md)
 
 # 16.5 — FFI: Calling C and Being Called
 
@@ -578,4 +578,4 @@ Windows. Always use the `c_*` aliases.
 
 ---
 
-[← Course Index](../README.md)
+[← 16.4 unsafe Rust and Raw Pointers](04-unsafe.md) · [Course Index](../README.md) · [17.1 Serde: Serialization and Deserialization →](../17-backend-axum/01-serde.md)

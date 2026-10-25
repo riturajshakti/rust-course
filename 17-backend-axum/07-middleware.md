@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 17.6 Error Handling in Axum](06-errors.md) · [Course Index](../README.md) · [17.8 SQLx: Connecting to Postgres →](08-sqlx.md)
 
 # 17.7 — Middleware and tower Layers
 
@@ -506,4 +506,4 @@ hand-written services are for backpressure and cross-request state.
 
 ---
 
-[← Course Index](../README.md)
+[← 17.6 Error Handling in Axum](06-errors.md) · [Course Index](../README.md) · [17.8 SQLx: Connecting to Postgres →](08-sqlx.md)

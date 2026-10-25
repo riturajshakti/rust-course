@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 10.1 Closures and Capture Modes](01-closures.md) · [Course Index](../README.md) · [10.3 The Iterator Trait →](03-iterator-trait.md)
 
 # 10.2 — Fn, FnMut, FnOnce
 
@@ -439,4 +439,4 @@ closures coerce; otherwise use `impl Fn` or `Box<dyn Fn>`.
 
 ---
 
-[← Course Index](../README.md)
+[← 10.1 Closures and Capture Modes](01-closures.md) · [Course Index](../README.md) · [10.3 The Iterator Trait →](03-iterator-trait.md)

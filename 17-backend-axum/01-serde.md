@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 16.5 FFI: Calling C and Being Called](../16-macros-unsafe/05-ffi.md) · [Course Index](../README.md) · [17.2 Your First Axum Server →](02-first-server.md)
 
 # 17.1 — Serde: Serialization and Deserialization
 
@@ -696,4 +696,4 @@ frontend expects.
 
 ---
 
-[← Course Index](../README.md)
+[← 16.5 FFI: Calling C and Being Called](../16-macros-unsafe/05-ffi.md) · [Course Index](../README.md) · [17.2 Your First Axum Server →](02-first-server.md)

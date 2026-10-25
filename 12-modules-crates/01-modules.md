@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 11.7 Weak References and Cycles](../11-smart-pointers/07-weak-cycles.md) · [Course Index](../README.md) · [12.2 use, pub use, and Re-exports →](02-use-reexports.md)
 
 # 12.1 — Modules and Visibility
 
@@ -547,4 +547,4 @@ definition and fails at every call site. Promote the type's visibility.
 
 ---
 
-[← Course Index](../README.md)
+[← 11.7 Weak References and Cycles](../11-smart-pointers/07-weak-cycles.md) · [Course Index](../README.md) · [12.2 use, pub use, and Re-exports →](02-use-reexports.md)

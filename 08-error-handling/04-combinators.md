@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 8.3 The ? Operator](03-question-operator.md) · [Course Index](../README.md) · [8.5 Custom Error Types →](05-custom-errors.md)
 
 # 8.4 — Combinators on Option and Result
 
@@ -611,4 +611,4 @@ or `fold`.
 
 ---
 
-[← Course Index](../README.md)
+[← 8.3 The ? Operator](03-question-operator.md) · [Course Index](../README.md) · [8.5 Custom Error Types →](05-custom-errors.md)

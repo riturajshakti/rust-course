@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 15.3 Spawning Tasks and JoinSet](03-tasks.md) · [Course Index](../README.md) · [15.5 Async Channels and Synchronization →](05-async-channels.md)
 
 # 15.4 — select!, Timeouts, and Cancellation
 
@@ -545,4 +545,4 @@ In-flight requests get no response. Use a token or a shutdown channel.
 
 ---
 
-[← Course Index](../README.md)
+[← 15.3 Spawning Tasks and JoinSet](03-tasks.md) · [Course Index](../README.md) · [15.5 Async Channels and Synchronization →](05-async-channels.md)

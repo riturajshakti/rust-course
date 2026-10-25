@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 17.11 Authentication with JWT](11-auth-jwt.md) · [Course Index](../README.md) · [17.13 Testing an Axum Application →](13-testing-axum.md)
 
 # 17.12 — HTTP Clients with reqwest
 
@@ -654,4 +654,4 @@ not exist and the error does not mention features.
 
 ---
 
-[← Course Index](../README.md)
+[← 17.11 Authentication with JWT](11-auth-jwt.md) · [Course Index](../README.md) · [17.13 Testing an Axum Application →](13-testing-axum.md)

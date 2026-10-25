@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 9.8 Associated Types and Generic Traits](../09-generics-traits/08-associated-types.md) · [Course Index](../README.md) · [10.2 Fn, FnMut, FnOnce →](02-fn-traits.md)
 
 # 10.1 — Closures and Capture Modes
 
@@ -424,4 +424,4 @@ syntax looks for a method, not a field.
 
 ---
 
-[← Course Index](../README.md)
+[← 9.8 Associated Types and Generic Traits](../09-generics-traits/08-associated-types.md) · [Course Index](../README.md) · [10.2 Fn, FnMut, FnOnce →](02-fn-traits.md)

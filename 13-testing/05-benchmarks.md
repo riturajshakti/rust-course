@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 13.4 Test Organization and Fixtures](04-organization.md) · [Course Index](../README.md) · [13.6 Property Testing and Fuzzing →](06-property-testing.md)
 
 # 13.5 — Benchmarking and Criterion
 
@@ -487,4 +487,4 @@ or use `iter_batched`.
 
 ---
 
-[← Course Index](../README.md)
+[← 13.4 Test Organization and Fixtures](04-organization.md) · [Course Index](../README.md) · [13.6 Property Testing and Fuzzing →](06-property-testing.md)

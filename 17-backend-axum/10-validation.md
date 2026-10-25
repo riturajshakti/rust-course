@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 17.9 Queries, Transactions, and Migrations](09-queries-migrations.md) · [Course Index](../README.md) · [17.11 Authentication with JWT →](11-auth-jwt.md)
 
 # 17.10 — Validation and Request Guards
 
@@ -507,4 +507,4 @@ attacker-controlled.
 
 ---
 
-[← Course Index](../README.md)
+[← 17.9 Queries, Transactions, and Migrations](09-queries-migrations.md) · [Course Index](../README.md) · [17.11 Authentication with JWT →](11-auth-jwt.md)

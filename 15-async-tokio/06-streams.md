@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 15.5 Async Channels and Synchronization](05-async-channels.md) · [Course Index](../README.md) · [15.7 Async Traits and Pinning →](07-async-traits-pin.md)
 
 # 15.6 — Streams
 
@@ -610,4 +610,4 @@ consumer drops the stream, the producer task leaks and spins.
 
 ---
 
-[← Course Index](../README.md)
+[← 15.5 Async Channels and Synchronization](05-async-channels.md) · [Course Index](../README.md) · [15.7 Async Traits and Pinning →](07-async-traits-pin.md)

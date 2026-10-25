@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 3.2 loop, while, and Loop Labels](02-loop-while.md) · [Course Index](../README.md) · [3.4 match: Rust's Superpower →](04-match.md)
 
 # 3.3 — for Loops and Ranges
 
@@ -618,4 +618,4 @@ Use `BTreeMap`, or collect and sort.
 
 ---
 
-[← Course Index](../README.md)
+[← 3.2 loop, while, and Loop Labels](02-loop-while.md) · [Course Index](../README.md) · [3.4 match: Rust's Superpower →](04-match.md)

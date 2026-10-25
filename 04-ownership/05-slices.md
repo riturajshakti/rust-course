@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 4.4 Mutable Borrows and the Borrow Checker](04-mutable-borrows.md) · [Course Index](../README.md) · [4.6 Lifetimes: The Basics →](06-lifetimes-basics.md)
 
 # 4.5 — Slices
 
@@ -481,4 +481,4 @@ slice keeps the borrow alive and the compiler checks it.
 
 ---
 
-[← Course Index](../README.md)
+[← 4.4 Mutable Borrows and the Borrow Checker](04-mutable-borrows.md) · [Course Index](../README.md) · [4.6 Lifetimes: The Basics →](06-lifetimes-basics.md)

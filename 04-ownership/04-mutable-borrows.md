@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 4.3 References and Borrowing Rules](03-borrowing.md) · [Course Index](../README.md) · [4.5 Slices →](05-slices.md)
 
 # 4.4 — Mutable Borrows and the Borrow Checker
 
@@ -458,4 +458,4 @@ after the loop.
 
 ---
 
-[← Course Index](../README.md)
+[← 4.3 References and Borrowing Rules](03-borrowing.md) · [Course Index](../README.md) · [4.5 Slices →](05-slices.md)

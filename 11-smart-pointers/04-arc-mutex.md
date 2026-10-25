@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 11.3 RefCell and Interior Mutability](03-refcell.md) · [Course Index](../README.md) · [11.5 Deref, AsRef, and Borrow →](05-deref.md)
 
 # 11.4 — Arc and Mutex
 
@@ -394,4 +394,4 @@ The lock is flagged, not emptied.
 
 ---
 
-[← Course Index](../README.md)
+[← 11.3 RefCell and Interior Mutability](03-refcell.md) · [Course Index](../README.md) · [11.5 Deref, AsRef, and Borrow →](05-deref.md)

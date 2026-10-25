@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 16.1 Declarative Macros with macro_rules!](01-macro-rules.md) · [Course Index](../README.md) · [16.3 Writing a Derive Macro →](03-derive-macro.md)
 
 # 16.2 — Procedural Macros Overview
 
@@ -367,4 +367,4 @@ parsed `ItemFn` so generics, lifetimes, and `async` survive.
 
 ---
 
-[← Course Index](../README.md)
+[← 16.1 Declarative Macros with macro_rules!](01-macro-rules.md) · [Course Index](../README.md) · [16.3 Writing a Derive Macro →](03-derive-macro.md)

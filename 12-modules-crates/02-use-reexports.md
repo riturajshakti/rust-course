@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 12.1 Modules and Visibility](01-modules.md) · [Course Index](../README.md) · [12.3 Multi-file and Multi-crate Layouts →](03-file-layout.md)
 
 # 12.2 — use, pub use, and Re-exports
 
@@ -482,4 +482,4 @@ is no load, no init, no code emitted.
 
 ---
 
-[← Course Index](../README.md)
+[← 12.1 Modules and Visibility](01-modules.md) · [Course Index](../README.md) · [12.3 Multi-file and Multi-crate Layouts →](03-file-layout.md)

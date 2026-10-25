@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 11.4 Arc and Mutex](04-arc-mutex.md) · [Course Index](../README.md) · [11.6 Cow: Clone on Write →](06-cow.md)
 
 # 11.5 — Deref, AsRef, and Borrow
 
@@ -422,4 +422,4 @@ type, or use `.as_ref()`.
 
 ---
 
-[← Course Index](../README.md)
+[← 11.4 Arc and Mutex](04-arc-mutex.md) · [Course Index](../README.md) · [11.6 Cow: Clone on Write →](06-cow.md)

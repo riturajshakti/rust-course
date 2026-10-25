@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 7.4 HashMap](04-hashmap.md) · [Course Index](../README.md) · [7.6 BTreeMap and Ordered Data →](06-btreemap.md)
 
 # 7.5 — HashMap Operations Reference
 
@@ -571,4 +571,4 @@ resistance; a crafted key set can degrade every lookup to O(n).
 
 ---
 
-[← Course Index](../README.md)
+[← 7.4 HashMap](04-hashmap.md) · [Course Index](../README.md) · [7.6 BTreeMap and Ordered Data →](06-btreemap.md)

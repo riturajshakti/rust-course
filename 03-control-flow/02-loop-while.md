@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 3.1 if, else if, and if as an Expression](01-if-expressions.md) · [Course Index](../README.md) · [3.3 for Loops and Ranges →](03-for-ranges.md)
 
 # 3.2 — loop, while, and Loop Labels
 
@@ -594,4 +594,4 @@ boundaries. Return a value from the closure and branch outside it.
 
 ---
 
-[← Course Index](../README.md)
+[← 3.1 if, else if, and if as an Expression](01-if-expressions.md) · [Course Index](../README.md) · [3.3 for Loops and Ranges →](03-for-ranges.md)

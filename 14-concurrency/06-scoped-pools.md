@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 14.5 Atomics](05-atomics.md) · [Course Index](../README.md) · [15.1 async/await and Futures →](../15-async-tokio/01-async-await.md)
 
 # 14.6 — Scoped Threads and Thread Pools
 
@@ -489,4 +489,4 @@ concurrency (Module 15).
 
 ---
 
-[← Course Index](../README.md)
+[← 14.5 Atomics](05-atomics.md) · [Course Index](../README.md) · [15.1 async/await and Futures →](../15-async-tokio/01-async-await.md)

@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 15.6 Streams](06-streams.md) · [Course Index](../README.md) · [15.8 Blocking Code in Async Contexts →](08-blocking.md)
 
 # 15.7 — Async Traits and Pinning
 
@@ -632,4 +632,4 @@ wrong. Use `pin-project-lite`.
 
 ---
 
-[← Course Index](../README.md)
+[← 15.6 Streams](06-streams.md) · [Course Index](../README.md) · [15.8 Blocking Code in Async Contexts →](08-blocking.md)

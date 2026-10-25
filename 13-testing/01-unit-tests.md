@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 12.7 Publishing to crates.io](../12-modules-crates/07-publishing.md) · [Course Index](../README.md) · [13.2 Integration Tests →](02-integration-tests.md)
 
 # 13.1 — Unit Tests and assert Macros
 
@@ -645,4 +645,4 @@ order. Pass `--test-threads=1` or make each test self-contained.
 
 ---
 
-[← Course Index](../README.md)
+[← 12.7 Publishing to crates.io](../12-modules-crates/07-publishing.md) · [Course Index](../README.md) · [13.2 Integration Tests →](02-integration-tests.md)

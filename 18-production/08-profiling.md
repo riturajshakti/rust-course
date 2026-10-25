@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 18.7 CI with GitHub Actions](07-ci.md) · [Course Index](../README.md) · [18.9 The Essential Crate Directory →](09-crate-directory.md)
 
 # 18.8 — Performance Profiling
 
@@ -581,4 +581,4 @@ first.
 
 ---
 
-[← Course Index](../README.md)
+[← 18.7 CI with GitHub Actions](07-ci.md) · [Course Index](../README.md) · [18.9 The Essential Crate Directory →](09-crate-directory.md)

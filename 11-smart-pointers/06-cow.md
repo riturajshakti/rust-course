@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 11.5 Deref, AsRef, and Borrow](05-deref.md) · [Course Index](../README.md) · [11.7 Weak References and Cycles →](07-weak-cycles.md)
 
 # 11.6 — Cow: Clone on Write
 
@@ -377,4 +377,4 @@ and owned. Sharing is `Rc`/`Arc` (lessons 11.2 and 11.4).
 
 ---
 
-[← Course Index](../README.md)
+[← 11.5 Deref, AsRef, and Borrow](05-deref.md) · [Course Index](../README.md) · [11.7 Weak References and Cycles →](07-weak-cycles.md)

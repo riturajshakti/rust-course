@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 18.3 Metrics and Health Checks](03-metrics-health.md) · [Course Index](../README.md) · [18.5 Release Profiles and Build Optimization →](05-release-builds.md)
 
 # 18.4 — Graceful Shutdown
 
@@ -454,4 +454,4 @@ so your handler never runs. Use the exec form.
 
 ---
 
-[← Course Index](../README.md)
+[← 18.3 Metrics and Health Checks](03-metrics-health.md) · [Course Index](../README.md) · [18.5 Release Profiles and Build Optimization →](05-release-builds.md)

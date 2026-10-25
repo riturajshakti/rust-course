@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 18.5 Release Profiles and Build Optimization](05-release-builds.md) · [Course Index](../README.md) · [18.7 CI with GitHub Actions →](07-ci.md)
 
 # 18.6 — Docker and Deployment
 
@@ -459,4 +459,4 @@ concurrent load. Either accept that or add `mimalloc`.
 
 ---
 
-[← Course Index](../README.md)
+[← 18.5 Release Profiles and Build Optimization](05-release-builds.md) · [Course Index](../README.md) · [18.7 CI with GitHub Actions →](07-ci.md)

@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 14.4 Send, Sync, and Thread Safety](04-send-sync.md) · [Course Index](../README.md) · [14.6 Scoped Threads and Thread Pools →](06-scoped-pools.md)
 
 # 14.5 — Atomics
 
@@ -465,4 +465,4 @@ for anything longer.
 
 ---
 
-[← Course Index](../README.md)
+[← 14.4 Send, Sync, and Thread Safety](04-send-sync.md) · [Course Index](../README.md) · [14.6 Scoped Threads and Thread Pools →](06-scoped-pools.md)

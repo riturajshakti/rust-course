@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 13.6 Property Testing and Fuzzing](../13-testing/06-property-testing.md) · [Course Index](../README.md) · [14.2 Channels and Message Passing →](02-channels.md)
 
 # 14.1 — Threads and join
 
@@ -435,4 +435,4 @@ rayon (14.6); for a thousand IO waits, use async (Module 15).
 
 ---
 
-[← Course Index](../README.md)
+[← 13.6 Property Testing and Fuzzing](../13-testing/06-property-testing.md) · [Course Index](../README.md) · [14.2 Channels and Message Passing →](02-channels.md)

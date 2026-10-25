@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 3.4 match: Rust's Superpower](04-match.md) · [Course Index](../README.md) · [3.6 if let, while let, and let else →](06-if-let-chains.md)
 
 # 3.5 — Pattern Matching in Depth
 
@@ -646,4 +646,4 @@ two. Add `[only]`.
 
 ---
 
-[← Course Index](../README.md)
+[← 3.4 match: Rust's Superpower](04-match.md) · [Course Index](../README.md) · [3.6 if let, while let, and let else →](06-if-let-chains.md)

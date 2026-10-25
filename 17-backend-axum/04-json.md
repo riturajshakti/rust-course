@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 17.3 Routing, Path, and Query Extractors](03-routing-extractors.md) · [Course Index](../README.md) · [17.5 Shared State and Dependency Injection →](05-state.md)
 
 # 17.4 — JSON Requests and Responses
 
@@ -409,4 +409,4 @@ compiler will insist.
 
 ---
 
-[← Course Index](../README.md)
+[← 17.3 Routing, Path, and Query Extractors](03-routing-extractors.md) · [Course Index](../README.md) · [17.5 Shared State and Dependency Injection →](05-state.md)

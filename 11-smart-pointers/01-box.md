@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 10.8 itertools and rayon](../10-closures-iterators/08-itertools-rayon.md) · [Course Index](../README.md) · [11.2 Rc and Shared Ownership →](02-rc.md)
 
 # 11.1 — Box and Heap Allocation
 
@@ -404,4 +404,4 @@ lesson 11.2 for `Rc::try_unwrap`.
 
 ---
 
-[← Course Index](../README.md)
+[← 10.8 itertools and rayon](../10-closures-iterators/08-itertools-rayon.md) · [Course Index](../README.md) · [11.2 Rc and Shared Ownership →](02-rc.md)

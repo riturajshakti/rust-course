@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 6.3 String Operations Reference](03-string-operations.md) · [Course Index](../README.md) · [6.5 UTF-8, Chars, Bytes, and Grapheme Safety →](05-utf8-chars.md)
 
 # 6.4 — Searching, Splitting, and Replacing
 
@@ -586,4 +586,4 @@ outside.
 
 ---
 
-[← Course Index](../README.md)
+[← 6.3 String Operations Reference](03-string-operations.md) · [Course Index](../README.md) · [6.5 UTF-8, Chars, Bytes, and Grapheme Safety →](05-utf8-chars.md)

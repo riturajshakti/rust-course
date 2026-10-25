@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 2.3 Tuples and Arrays](03-tuples-arrays.md) · [Course Index](../README.md) · [2.5 Numeric Operators and Type Casting →](05-operators-casting.md)
 
 # 2.4 — Functions, Parameters, and Return Values
 
@@ -540,4 +540,4 @@ callers, same cost.
 
 ---
 
-[← Course Index](../README.md)
+[← 2.3 Tuples and Arrays](03-tuples-arrays.md) · [Course Index](../README.md) · [2.5 Numeric Operators and Type Casting →](05-operators-casting.md)

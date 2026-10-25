@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 17.2 Your First Axum Server](02-first-server.md) · [Course Index](../README.md) · [17.4 JSON Requests and Responses →](04-json.md)
 
 # 17.3 — Routing, Path, and Query Extractors
 
@@ -555,4 +555,4 @@ if the layer is missing. Use `State` (lesson 17.5).
 
 ---
 
-[← Course Index](../README.md)
+[← 17.2 Your First Axum Server](02-first-server.md) · [Course Index](../README.md) · [17.4 JSON Requests and Responses →](04-json.md)

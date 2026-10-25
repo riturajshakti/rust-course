@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 11.2 Rc and Shared Ownership](02-rc.md) · [Course Index](../README.md) · [11.4 Arc and Mutex →](04-arc-mutex.md)
 
 # 11.3 — RefCell and Interior Mutability
 
@@ -429,4 +429,4 @@ replaced a compile error with a panic in production.
 
 ---
 
-[← Course Index](../README.md)
+[← 11.2 Rc and Shared Ownership](02-rc.md) · [Course Index](../README.md) · [11.4 Arc and Mutex →](04-arc-mutex.md)

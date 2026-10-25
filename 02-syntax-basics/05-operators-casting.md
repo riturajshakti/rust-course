@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 2.4 Functions, Parameters, and Return Values](04-functions.md) · [Course Index](../README.md) · [2.6 Constants, Statics, and Type Aliases →](06-const-static.md)
 
 # 2.5 — Numeric Operators and Type Casting
 
@@ -563,4 +563,4 @@ truncates; use `From`/`TryFrom` unless truncation is the goal.
 
 ---
 
-[← Course Index](../README.md)
+[← 2.4 Functions, Parameters, and Return Values](04-functions.md) · [Course Index](../README.md) · [2.6 Constants, Statics, and Type Aliases →](06-const-static.md)

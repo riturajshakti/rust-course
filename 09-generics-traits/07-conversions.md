@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 9.6 Operator Overloading and Standard Traits](06-std-traits.md) · [Course Index](../README.md) · [9.8 Associated Types and Generic Traits →](08-associated-types.md)
 
 # 9.7 — From, Into, TryFrom, and Conversions
 
@@ -564,4 +564,4 @@ lookups silently miss. Use `AsRef<T>` unless the hash/eq invariant holds.
 
 ---
 
-[← Course Index](../README.md)
+[← 9.6 Operator Overloading and Standard Traits](06-std-traits.md) · [Course Index](../README.md) · [9.8 Associated Types and Generic Traits →](08-associated-types.md)

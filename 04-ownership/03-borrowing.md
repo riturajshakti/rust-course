@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 4.2 Move Semantics and Copy Types](02-moves-copy.md) · [Course Index](../README.md) · [4.4 Mutable Borrows and the Borrow Checker →](04-mutable-borrows.md)
 
 # 4.3 — References and Borrowing Rules
 
@@ -464,4 +464,4 @@ owner outlives the borrow.
 
 ---
 
-[← Course Index](../README.md)
+[← 4.2 Move Semantics and Copy Types](02-moves-copy.md) · [Course Index](../README.md) · [4.4 Mutable Borrows and the Borrow Checker →](04-mutable-borrows.md)

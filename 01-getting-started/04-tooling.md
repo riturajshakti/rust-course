@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 1.3 Anatomy of a Cargo Project](03-project-anatomy.md) · [Course Index](../README.md) · [1.5 How Rust Thinks: A Mental Model →](05-mental-model.md)
 
 # 1.4 — rustfmt, Clippy, and rust-analyzer
 
@@ -539,4 +539,4 @@ cache and triggers full rebuilds whenever it differs.
 
 ---
 
-[← Course Index](../README.md)
+[← 1.3 Anatomy of a Cargo Project](03-project-anatomy.md) · [Course Index](../README.md) · [1.5 How Rust Thinks: A Mental Model →](05-mental-model.md)

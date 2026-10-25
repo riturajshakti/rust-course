@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 9.3 Trait Bounds and where Clauses](03-trait-bounds.md) · [Course Index](../README.md) · [9.5 Trait Objects and Dynamic Dispatch →](05-trait-objects.md)
 
 # 9.4 — Default Methods and Supertraits
 
@@ -454,4 +454,4 @@ trying `dyn Trait`.** Both break dyn compatibility (lesson 9.5).
 
 ---
 
-[← Course Index](../README.md)
+[← 9.3 Trait Bounds and where Clauses](03-trait-bounds.md) · [Course Index](../README.md) · [9.5 Trait Objects and Dynamic Dispatch →](05-trait-objects.md)

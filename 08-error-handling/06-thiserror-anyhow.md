@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 8.5 Custom Error Types](05-custom-errors.md) · [Course Index](../README.md) · [8.7 Error Handling Strategy for Libraries vs Apps →](07-strategy.md)
 
 # 8.6 — thiserror and anyhow
 
@@ -665,4 +665,4 @@ the inner error. `with_context(|| format!("reading {path}"))` does.
 
 ---
 
-[← Course Index](../README.md)
+[← 8.5 Custom Error Types](05-custom-errors.md) · [Course Index](../README.md) · [8.7 Error Handling Strategy for Libraries vs Apps →](07-strategy.md)

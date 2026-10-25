@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 9.2 Defining and Implementing Traits](02-traits.md) · [Course Index](../README.md) · [9.4 Default Methods and Supertraits →](04-default-supertraits.md)
 
 # 9.3 — Trait Bounds and where Clauses
 
@@ -431,4 +431,4 @@ type — `E0119` conflicting implementations.
 
 ---
 
-[← Course Index](../README.md)
+[← 9.2 Defining and Implementing Traits](02-traits.md) · [Course Index](../README.md) · [9.4 Default Methods and Supertraits →](04-default-supertraits.md)

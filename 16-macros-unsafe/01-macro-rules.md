@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 15.8 Blocking Code in Async Contexts](../15-async-tokio/08-blocking.md) · [Course Index](../README.md) · [16.2 Procedural Macros Overview →](02-proc-macros.md)
 
 # 16.1 — Declarative Macros with macro_rules!
 
@@ -571,4 +571,4 @@ identifiers, or look at a type's fields. That is a proc macro's job.
 
 ---
 
-[← Course Index](../README.md)
+[← 15.8 Blocking Code in Async Contexts](../15-async-tokio/08-blocking.md) · [Course Index](../README.md) · [16.2 Procedural Macros Overview →](02-proc-macros.md)

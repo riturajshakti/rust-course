@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 5.6 Deriving Common Traits](06-derive.md) · [Course Index](../README.md) · [6.1 String vs &str →](../06-strings/01-string-vs-str.md)
 
 # 5.7 — Builder Pattern and Default
 
@@ -533,4 +533,4 @@ to empty needs no `Option` — the plain type's default already means "unset".
 
 ---
 
-[← Course Index](../README.md)
+[← 5.6 Deriving Common Traits](06-derive.md) · [Course Index](../README.md) · [6.1 String vs &str →](../06-strings/01-string-vs-str.md)

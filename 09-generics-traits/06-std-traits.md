@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 9.5 Trait Objects and Dynamic Dispatch](05-trait-objects.md) · [Course Index](../README.md) · [9.7 From, Into, TryFrom, and Conversions →](07-conversions.md)
 
 # 9.6 — Operator Overloading and Standard Traits
 
@@ -583,4 +583,4 @@ abusing it makes method resolution unreadable.
 
 ---
 
-[← Course Index](../README.md)
+[← 9.5 Trait Objects and Dynamic Dispatch](05-trait-objects.md) · [Course Index](../README.md) · [9.7 From, Into, TryFrom, and Conversions →](07-conversions.md)

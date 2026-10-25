@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 18.4 Graceful Shutdown](04-graceful-shutdown.md) · [Course Index](../README.md) · [18.6 Docker and Deployment →](06-docker.md)
 
 # 18.5 — Release Profiles and Build Optimization
 
@@ -519,4 +519,4 @@ hex addresses. Archive the `release-with-debug` artifact.
 
 ---
 
-[← Course Index](../README.md)
+[← 18.4 Graceful Shutdown](04-graceful-shutdown.md) · [Course Index](../README.md) · [18.6 Docker and Deployment →](06-docker.md)

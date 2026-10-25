@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 12.6 Features and Conditional Compilation](06-features.md) · [Course Index](../README.md) · [13.1 Unit Tests and assert Macros →](../13-testing/01-unit-tests.md)
 
 # 12.7 — Publishing to crates.io
 
@@ -615,4 +615,4 @@ service code is public and unremovable.
 
 ---
 
-[← Course Index](../README.md)
+[← 12.6 Features and Conditional Compilation](06-features.md) · [Course Index](../README.md) · [13.1 Unit Tests and assert Macros →](../13-testing/01-unit-tests.md)

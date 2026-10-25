@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 14.6 Scoped Threads and Thread Pools](../14-concurrency/06-scoped-pools.md) · [Course Index](../README.md) · [15.2 The Tokio Runtime →](02-tokio-runtime.md)
 
 # 15.1 — async/await and Futures
 
@@ -420,4 +420,4 @@ runtime.
 
 ---
 
-[← Course Index](../README.md)
+[← 14.6 Scoped Threads and Thread Pools](../14-concurrency/06-scoped-pools.md) · [Course Index](../README.md) · [15.2 The Tokio Runtime →](02-tokio-runtime.md)

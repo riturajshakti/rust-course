@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 10.5 Consumers: collect, fold, and Friends](05-consumers.md) · [Course Index](../README.md) · [10.7 Writing Your Own Iterator →](07-custom-iterator.md)
 
 # 10.6 — Iterator Operations Reference
 
@@ -577,4 +577,4 @@ sort first, or collect into a set.
 
 ---
 
-[← Course Index](../README.md)
+[← 10.5 Consumers: collect, fold, and Friends](05-consumers.md) · [Course Index](../README.md) · [10.7 Writing Your Own Iterator →](07-custom-iterator.md)

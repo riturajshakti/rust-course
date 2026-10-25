@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 18.8 Performance Profiling](08-profiling.md) · [Course Index](../README.md)
 
 # 18.9 — The Essential Crate Directory
 
@@ -529,4 +529,4 @@ cover more than most people realise.
 
 ---
 
-[← Course Index](../README.md)
+[← 18.8 Performance Profiling](08-profiling.md) · [Course Index](../README.md)

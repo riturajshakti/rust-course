@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 6.7 Parsing and Converting Text](../06-strings/07-parsing.md) · [Course Index](../README.md) · [7.2 Vec Operations Reference →](02-vec-operations.md)
 
 # 7.1 — Vec: The Workhorse
 
@@ -397,4 +397,4 @@ parameter on every struct and signature that touches it. Start with
 
 ---
 
-[← Course Index](../README.md)
+[← 6.7 Parsing and Converting Text](../06-strings/07-parsing.md) · [Course Index](../README.md) · [7.2 Vec Operations Reference →](02-vec-operations.md)

@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 4.7 Lifetime Elision and Struct Lifetimes](07-lifetime-elision.md) · [Course Index](../README.md) · [5.1 Defining and Instantiating Structs →](../05-structs-enums/01-structs.md)
 
 # 4.8 — Clone, Copy, and Drop
 
@@ -497,4 +497,4 @@ for things the allocator does not know about: flushes, unlocks, logs, handles.
 
 ---
 
-[← Course Index](../README.md)
+[← 4.7 Lifetime Elision and Struct Lifetimes](07-lifetime-elision.md) · [Course Index](../README.md) · [5.1 Defining and Instantiating Structs →](../05-structs-enums/01-structs.md)

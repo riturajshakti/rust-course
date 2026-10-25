@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 15.4 select!, Timeouts, and Cancellation](04-select-timeouts.md) · [Course Index](../README.md) · [15.6 Streams →](06-streams.md)
 
 # 15.5 — Async Channels and Synchronization
 
@@ -739,4 +739,4 @@ restructure to one receiver that fans out to spawned tasks.
 
 ---
 
-[← Course Index](../README.md)
+[← 15.4 select!, Timeouts, and Cancellation](04-select-timeouts.md) · [Course Index](../README.md) · [15.6 Streams →](06-streams.md)

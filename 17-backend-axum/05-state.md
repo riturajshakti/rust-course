@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 17.4 JSON Requests and Responses](04-json.md) · [Course Index](../README.md) · [17.6 Error Handling in Axum →](06-errors.md)
 
 # 17.5 — Shared State and Dependency Injection
 
@@ -504,4 +504,4 @@ production rather than an error at compile time.
 
 ---
 
-[← Course Index](../README.md)
+[← 17.4 JSON Requests and Responses](04-json.md) · [Course Index](../README.md) · [17.6 Error Handling in Axum →](06-errors.md)

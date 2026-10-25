@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 4.5 Slices](05-slices.md) · [Course Index](../README.md) · [4.7 Lifetime Elision and Struct Lifetimes →](07-lifetime-elision.md)
 
 # 4.6 — Lifetimes: The Basics
 
@@ -467,4 +467,4 @@ Write it without, compile, and let `E0106` tell you which one is missing.
 
 ---
 
-[← Course Index](../README.md)
+[← 4.5 Slices](05-slices.md) · [Course Index](../README.md) · [4.7 Lifetime Elision and Struct Lifetimes →](07-lifetime-elision.md)

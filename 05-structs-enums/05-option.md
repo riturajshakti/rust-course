@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 5.4 Enums and Variants with Data](04-enums.md) · [Course Index](../README.md) · [5.6 Deriving Common Traits →](06-derive.md)
 
 # 5.5 — Option: No More Null
 
@@ -550,4 +550,4 @@ types it is free; for a plain `i32` it adds a word of tag.
 
 ---
 
-[← Course Index](../README.md)
+[← 5.4 Enums and Variants with Data](04-enums.md) · [Course Index](../README.md) · [5.6 Deriving Common Traits →](06-derive.md)

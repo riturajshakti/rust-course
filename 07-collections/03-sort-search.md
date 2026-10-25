@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 7.2 Vec Operations Reference](02-vec-operations.md) · [Course Index](../README.md) · [7.4 HashMap →](04-hashmap.md)
 
 # 7.3 — Sorting, Searching, and Dedup
 
@@ -604,4 +604,4 @@ equals matters.
 
 ---
 
-[← Course Index](../README.md)
+[← 7.2 Vec Operations Reference](02-vec-operations.md) · [Course Index](../README.md) · [7.4 HashMap →](04-hashmap.md)

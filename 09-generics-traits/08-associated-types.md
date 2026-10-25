@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 9.7 From, Into, TryFrom, and Conversions](07-conversions.md) · [Course Index](../README.md) · [10.1 Closures and Capture Modes →](../10-closures-iterators/01-closures.md)
 
 # 9.8 — Associated Types and Generic Traits
 
@@ -541,4 +541,4 @@ object needs `dyn Container<Item = i32>` — a vtable cannot leave `Item` open.
 
 ---
 
-[← Course Index](../README.md)
+[← 9.7 From, Into, TryFrom, and Conversions](07-conversions.md) · [Course Index](../README.md) · [10.1 Closures and Capture Modes →](../10-closures-iterators/01-closures.md)

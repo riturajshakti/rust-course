@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 8.4 Combinators on Option and Result](04-combinators.md) · [Course Index](../README.md) · [8.6 thiserror and anyhow →](06-thiserror-anyhow.md)
 
 # 8.5 — Custom Error Types
 
@@ -497,4 +497,4 @@ breaking release.
 
 ---
 
-[← Course Index](../README.md)
+[← 8.4 Combinators on Option and Result](04-combinators.md) · [Course Index](../README.md) · [8.6 thiserror and anyhow →](06-thiserror-anyhow.md)

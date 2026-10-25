@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 7.1 Vec: The Workhorse](01-vec.md) · [Course Index](../README.md) · [7.3 Sorting, Searching, and Dedup →](03-sort-search.md)
 
 # 7.2 — Vec Operations Reference
 
@@ -611,4 +611,4 @@ ones. Sort first.
 
 ---
 
-[← Course Index](../README.md)
+[← 7.1 Vec: The Workhorse](01-vec.md) · [Course Index](../README.md) · [7.3 Sorting, Searching, and Dedup →](03-sort-search.md)

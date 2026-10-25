@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 12.2 use, pub use, and Re-exports](02-use-reexports.md) · [Course Index](../README.md) · [12.4 Cargo.toml in Depth →](04-cargo-toml.md)
 
 # 12.3 — Multi-file and Multi-crate Layouts
 
@@ -497,4 +497,4 @@ through the public API like any consumer. That is the point.
 
 ---
 
-[← Course Index](../README.md)
+[← 12.2 use, pub use, and Re-exports](02-use-reexports.md) · [Course Index](../README.md) · [12.4 Cargo.toml in Depth →](04-cargo-toml.md)

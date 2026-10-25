@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 4.6 Lifetimes: The Basics](06-lifetimes-basics.md) · [Course Index](../README.md) · [4.8 Clone, Copy, and Drop →](08-clone-drop.md)
 
 # 4.7 — Lifetime Elision and Struct Lifetimes
 
@@ -481,4 +481,4 @@ through your whole API. Use `String` unless you are writing a parser.
 
 ---
 
-[← Course Index](../README.md)
+[← 4.6 Lifetimes: The Basics](06-lifetimes-basics.md) · [Course Index](../README.md) · [4.8 Clone, Copy, and Drop →](08-clone-drop.md)

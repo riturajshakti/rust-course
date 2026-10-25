@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 2.5 Numeric Operators and Type Casting](05-operators-casting.md) · [Course Index](../README.md) · [2.7 Comments and Documentation Comments →](07-comments-docs.md)
 
 # 2.6 — Constants, Statics, and Type Aliases
 
@@ -470,4 +470,4 @@ earns its keep when you need the single address.
 
 ---
 
-[← Course Index](../README.md)
+[← 2.5 Numeric Operators and Type Casting](05-operators-casting.md) · [Course Index](../README.md) · [2.7 Comments and Documentation Comments →](07-comments-docs.md)

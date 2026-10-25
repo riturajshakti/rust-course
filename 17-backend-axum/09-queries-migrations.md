@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 17.8 SQLx: Connecting to Postgres](08-sqlx.md) · [Course Index](../README.md) · [17.10 Validation and Request Guards →](10-validation.md)
 
 # 17.9 — Queries, Transactions, and Migrations
 
@@ -737,4 +737,4 @@ trait".
 
 ---
 
-[← Course Index](../README.md)
+[← 17.8 SQLx: Connecting to Postgres](08-sqlx.md) · [Course Index](../README.md) · [17.10 Validation and Request Guards →](10-validation.md)

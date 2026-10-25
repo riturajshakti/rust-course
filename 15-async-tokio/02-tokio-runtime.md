@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 15.1 async/await and Futures](01-async-await.md) · [Course Index](../README.md) · [15.3 Spawning Tasks and JoinSet →](03-tasks.md)
 
 # 15.2 — The Tokio Runtime
 
@@ -463,4 +463,4 @@ workers (see 15.8).
 
 ---
 
-[← Course Index](../README.md)
+[← 15.1 async/await and Futures](01-async-await.md) · [Course Index](../README.md) · [15.3 Spawning Tasks and JoinSet →](03-tasks.md)

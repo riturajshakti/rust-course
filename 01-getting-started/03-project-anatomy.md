@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 1.2 Hello, Cargo: Your First Project](02-hello-cargo.md) · [Course Index](../README.md) · [1.4 rustfmt, Clippy, and rust-analyzer →](04-tooling.md)
 
 # 1.3 — Anatomy of a Cargo Project
 
@@ -562,4 +562,4 @@ crates; use the package name with underscores, e.g. `my_app::greet()`.
 
 ---
 
-[← Course Index](../README.md)
+[← 1.2 Hello, Cargo: Your First Project](02-hello-cargo.md) · [Course Index](../README.md) · [1.4 rustfmt, Clippy, and rust-analyzer →](04-tooling.md)

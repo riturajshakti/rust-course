@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 15.2 The Tokio Runtime](02-tokio-runtime.md) · [Course Index](../README.md) · [15.4 select!, Timeouts, and Cancellation →](04-select-timeouts.md)
 
 # 15.3 — Spawning Tasks and JoinSet
 
@@ -557,4 +557,4 @@ moves `a` itself, so the loop's second iteration fails. Clone before the block.
 
 ---
 
-[← Course Index](../README.md)
+[← 15.2 The Tokio Runtime](02-tokio-runtime.md) · [Course Index](../README.md) · [15.4 select!, Timeouts, and Cancellation →](04-select-timeouts.md)

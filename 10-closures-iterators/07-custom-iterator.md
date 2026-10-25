@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 10.6 Iterator Operations Reference](06-iterator-reference.md) · [Course Index](../README.md) · [10.8 itertools and rayon →](08-itertools-rayon.md)
 
 # 10.7 — Writing Your Own Iterator
 
@@ -525,4 +525,4 @@ bound is `None`, so `len` will be wrong; override `size_hint` first.
 
 ---
 
-[← Course Index](../README.md)
+[← 10.6 Iterator Operations Reference](06-iterator-reference.md) · [Course Index](../README.md) · [10.8 itertools and rayon →](08-itertools-rayon.md)

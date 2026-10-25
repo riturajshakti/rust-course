@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 12.3 Multi-file and Multi-crate Layouts](03-file-layout.md) · [Course Index](../README.md) · [12.5 Workspaces →](05-workspaces.md)
 
 # 12.4 — Cargo.toml in Depth
 
@@ -612,4 +612,4 @@ your declared ranges. Edit `Cargo.toml` (or use `--breaking`) for majors.
 
 ---
 
-[← Course Index](../README.md)
+[← 12.3 Multi-file and Multi-crate Layouts](03-file-layout.md) · [Course Index](../README.md) · [12.5 Workspaces →](05-workspaces.md)

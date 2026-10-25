@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 6.2 Creating and Growing Strings](02-creating-strings.md) · [Course Index](../README.md) · [6.4 Searching, Splitting, and Replacing →](04-search-split.md)
 
 # 6.3 — String Operations Reference
 
@@ -633,4 +633,4 @@ a byte-for-byte mapping.
 
 ---
 
-[← Course Index](../README.md)
+[← 6.2 Creating and Growing Strings](02-creating-strings.md) · [Course Index](../README.md) · [6.4 Searching, Splitting, and Replacing →](04-search-split.md)

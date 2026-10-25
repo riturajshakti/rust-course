@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 14.2 Channels and Message Passing](02-channels.md) · [Course Index](../README.md) · [14.4 Send, Sync, and Thread Safety →](04-send-sync.md)
 
 # 14.3 — Shared State with Mutex and RwLock
 
@@ -485,4 +485,4 @@ can starve writers. Use it when reads dominate and you have measured.
 
 ---
 
-[← Course Index](../README.md)
+[← 14.2 Channels and Message Passing](02-channels.md) · [Course Index](../README.md) · [14.4 Send, Sync, and Thread Safety →](04-send-sync.md)

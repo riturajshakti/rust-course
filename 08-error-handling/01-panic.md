@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 7.9 Choosing the Right Collection](../07-collections/09-choosing.md) · [Course Index](../README.md) · [8.2 Result and Propagation →](02-result.md)
 
 # 8.1 — panic! and When to Use It
 
@@ -566,4 +566,4 @@ failed. Say *why it should have worked*: `expect("PORT validated at startup")`.
 
 ---
 
-[← Course Index](../README.md)
+[← 7.9 Choosing the Right Collection](../07-collections/09-choosing.md) · [Course Index](../README.md) · [8.2 Result and Propagation →](02-result.md)

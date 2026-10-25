@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 8.2 Result and Propagation](02-result.md) · [Course Index](../README.md) · [8.4 Combinators on Option and Result →](04-combinators.md)
 
 # 8.3 — The ? Operator
 
@@ -541,4 +541,4 @@ or `anyhow`'s `.context()` (lesson 8.6) if you want to know where it came from.
 
 ---
 
-[← Course Index](../README.md)
+[← 8.2 Result and Propagation](02-result.md) · [Course Index](../README.md) · [8.4 Combinators on Option and Result →](04-combinators.md)

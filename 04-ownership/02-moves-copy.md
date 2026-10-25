@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 4.1 Stack, Heap, and Why Ownership Exists](01-why-ownership.md) · [Course Index](../README.md) · [4.3 References and Borrowing Rules →](03-borrowing.md)
 
 # 4.2 — Move Semantics and Copy Types
 
@@ -514,4 +514,4 @@ workaround. Take a reference instead.
 
 ---
 
-[← Course Index](../README.md)
+[← 4.1 Stack, Heap, and Why Ownership Exists](01-why-ownership.md) · [Course Index](../README.md) · [4.3 References and Borrowing Rules →](03-borrowing.md)

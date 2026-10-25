@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[Course Index](../README.md) · [1.2 Hello, Cargo: Your First Project →](02-hello-cargo.md)
 
 # 1.1 — Installing Rust and the Toolchain
 
@@ -393,4 +393,4 @@ Commit the TOML file.
 
 ---
 
-[← Course Index](../README.md)
+[Course Index](../README.md) · [1.2 Hello, Cargo: Your First Project →](02-hello-cargo.md)

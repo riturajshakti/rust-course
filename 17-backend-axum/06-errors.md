@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 17.5 Shared State and Dependency Injection](05-state.md) · [Course Index](../README.md) · [17.7 Middleware and tower Layers →](07-middleware.md)
 
 # 17.6 — Error Handling in Axum
 
@@ -495,4 +495,4 @@ while every other error is JSON.
 
 ---
 
-[← Course Index](../README.md)
+[← 17.5 Shared State and Dependency Injection](05-state.md) · [Course Index](../README.md) · [17.7 Middleware and tower Layers →](07-middleware.md)

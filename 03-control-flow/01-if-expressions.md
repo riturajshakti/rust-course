@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 2.7 Comments and Documentation Comments](../02-syntax-basics/07-comments-docs.md) · [Course Index](../README.md) · [3.2 loop, while, and Loop Labels →](02-loop-while.md)
 
 # 3.1 — if, else if, and if as an Expression
 
@@ -529,4 +529,4 @@ Add the `else`.
 
 ---
 
-[← Course Index](../README.md)
+[← 2.7 Comments and Documentation Comments](../02-syntax-basics/07-comments-docs.md) · [Course Index](../README.md) · [3.2 loop, while, and Loop Labels →](02-loop-while.md)

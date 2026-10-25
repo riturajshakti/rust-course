@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 14.1 Threads and join](01-threads.md) · [Course Index](../README.md) · [14.3 Shared State with Mutex and RwLock →](03-shared-state.md)
 
 # 14.2 — Channels and Message Passing
 
@@ -482,4 +482,4 @@ memory leak. Use `sync_channel(n)` so sends apply backpressure.
 
 ---
 
-[← Course Index](../README.md)
+[← 14.1 Threads and join](01-threads.md) · [Course Index](../README.md) · [14.3 Shared State with Mutex and RwLock →](03-shared-state.md)

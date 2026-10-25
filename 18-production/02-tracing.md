@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 18.1 Configuration and Environment](01-config.md) · [Course Index](../README.md) · [18.3 Metrics and Health Checks →](03-metrics-health.md)
 
 # 18.2 — Logging and Tracing
 
@@ -603,4 +603,4 @@ the loop.
 
 ---
 
-[← Course Index](../README.md)
+[← 18.1 Configuration and Environment](01-config.md) · [Course Index](../README.md) · [18.3 Metrics and Health Checks →](03-metrics-health.md)

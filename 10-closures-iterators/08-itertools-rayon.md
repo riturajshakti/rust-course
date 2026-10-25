@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 10.7 Writing Your Own Iterator](07-custom-iterator.md) · [Course Index](../README.md) · [11.1 Box and Heap Allocation →](../11-smart-pointers/01-box.md)
 
 # 10.8 — itertools and rayon
 
@@ -603,4 +603,4 @@ closures are `Fn`; `collect` instead.
 
 ---
 
-[← Course Index](../README.md)
+[← 10.7 Writing Your Own Iterator](07-custom-iterator.md) · [Course Index](../README.md) · [11.1 Box and Heap Allocation →](../11-smart-pointers/01-box.md)

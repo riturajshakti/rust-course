@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 6.6 Formatting and the format! Family](06-formatting.md) · [Course Index](../README.md) · [7.1 Vec: The Workhorse →](../07-collections/01-vec.md)
 
 # 6.7 — Parsing and Converting Text
 
@@ -606,4 +606,4 @@ lengths. Use `from_utf8` and handle the error.
 
 ---
 
-[← Course Index](../README.md)
+[← 6.6 Formatting and the format! Family](06-formatting.md) · [Course Index](../README.md) · [7.1 Vec: The Workhorse →](../07-collections/01-vec.md)

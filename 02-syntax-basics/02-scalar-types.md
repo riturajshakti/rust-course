@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 2.1 Variables, Mutability, and Shadowing](01-variables.md) · [Course Index](../README.md) · [2.3 Tuples and Arrays →](03-tuples-arrays.md)
 
 # 2.2 — Scalar Types: Integers, Floats, Bool, Char
 
@@ -540,4 +540,4 @@ side with `as` (lesson 2.5).
 
 ---
 
-[← Course Index](../README.md)
+[← 2.1 Variables, Mutability, and Shadowing](01-variables.md) · [Course Index](../README.md) · [2.3 Tuples and Arrays →](03-tuples-arrays.md)

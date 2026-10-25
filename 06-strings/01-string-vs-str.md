@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 5.7 Builder Pattern and Default](../05-structs-enums/07-builder-default.md) · [Course Index](../README.md) · [6.2 Creating and Growing Strings →](02-creating-strings.md)
 
 # 6.1 — String vs &str
 
@@ -401,4 +401,4 @@ is what allocates.
 
 ---
 
-[← Course Index](../README.md)
+[← 5.7 Builder Pattern and Default](../05-structs-enums/07-builder-default.md) · [Course Index](../README.md) · [6.2 Creating and Growing Strings →](02-creating-strings.md)

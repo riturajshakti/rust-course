@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 3.6 if let, while let, and let else](../03-control-flow/06-if-let-chains.md) · [Course Index](../README.md) · [4.2 Move Semantics and Copy Types →](02-moves-copy.md)
 
 # 4.1 — Stack, Heap, and Why Ownership Exists
 
@@ -477,4 +477,4 @@ mutating it; `let mut` controls that, independently.
 
 ---
 
-[← Course Index](../README.md)
+[← 3.6 if let, while let, and let else](../03-control-flow/06-if-let-chains.md) · [Course Index](../README.md) · [4.2 Move Semantics and Copy Types →](02-moves-copy.md)

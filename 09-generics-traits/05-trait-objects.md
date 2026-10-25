@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 9.4 Default Methods and Supertraits](04-default-supertraits.md) · [Course Index](../README.md) · [9.6 Operator Overloading and Standard Traits →](06-std-traits.md)
 
 # 9.5 — Trait Objects and Dynamic Dispatch
 
@@ -489,4 +489,4 @@ Add a `fn box_clone(&self) -> Box<dyn Trait>` method.
 
 ---
 
-[← Course Index](../README.md)
+[← 9.4 Default Methods and Supertraits](04-default-supertraits.md) · [Course Index](../README.md) · [9.6 Operator Overloading and Standard Traits →](06-std-traits.md)

@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 9.1 Generic Functions and Structs](01-generics.md) · [Course Index](../README.md) · [9.3 Trait Bounds and where Clauses →](03-trait-bounds.md)
 
 # 9.2 — Defining and Implementing Traits
 
@@ -497,4 +497,4 @@ string and call `f.pad`.
 
 ---
 
-[← Course Index](../README.md)
+[← 9.1 Generic Functions and Structs](01-generics.md) · [Course Index](../README.md) · [9.3 Trait Bounds and where Clauses →](03-trait-bounds.md)

@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 1.5 How Rust Thinks: A Mental Model](../01-getting-started/05-mental-model.md) · [Course Index](../README.md) · [2.2 Scalar Types: Integers, Floats, Bool, Char →](02-scalar-types.md)
 
 # 2.1 — Variables, Mutability, and Shadowing
 
@@ -452,4 +452,4 @@ taken to it still sees the old value.
 
 ---
 
-[← Course Index](../README.md)
+[← 1.5 How Rust Thinks: A Mental Model](../01-getting-started/05-mental-model.md) · [Course Index](../README.md) · [2.2 Scalar Types: Integers, Floats, Bool, Char →](02-scalar-types.md)

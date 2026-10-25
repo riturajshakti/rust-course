@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 16.3 Writing a Derive Macro](03-derive-macro.md) · [Course Index](../README.md) · [16.5 FFI: Calling C and Being Called →](05-ffi.md)
 
 # 16.4 — unsafe Rust and Raw Pointers
 
@@ -634,4 +634,4 @@ documented, wrapped in a safe API — otherwise nobody including you can audit i
 
 ---
 
-[← Course Index](../README.md)
+[← 16.3 Writing a Derive Macro](03-derive-macro.md) · [Course Index](../README.md) · [16.5 FFI: Calling C and Being Called →](05-ffi.md)

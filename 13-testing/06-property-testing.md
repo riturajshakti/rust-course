@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 13.5 Benchmarking and Criterion](05-benchmarks.md) · [Course Index](../README.md) · [14.1 Threads and join →](../14-concurrency/01-threads.md)
 
 # 13.6 — Property Testing and Fuzzing
 
@@ -633,4 +633,4 @@ and commit the corpus.
 
 ---
 
-[← Course Index](../README.md)
+[← 13.5 Benchmarking and Criterion](05-benchmarks.md) · [Course Index](../README.md) · [14.1 Threads and join →](../14-concurrency/01-threads.md)

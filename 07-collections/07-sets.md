@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 7.6 BTreeMap and Ordered Data](06-btreemap.md) · [Course Index](../README.md) · [7.8 VecDeque, BinaryHeap, LinkedList →](08-other-collections.md)
 
 # 7.7 — HashSet and BTreeSet
 
@@ -423,4 +423,4 @@ overhead.
 
 ---
 
-[← Course Index](../README.md)
+[← 7.6 BTreeMap and Ordered Data](06-btreemap.md) · [Course Index](../README.md) · [7.8 VecDeque, BinaryHeap, LinkedList →](08-other-collections.md)

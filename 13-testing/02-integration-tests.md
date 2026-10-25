@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 13.1 Unit Tests and assert Macros](01-unit-tests.md) · [Course Index](../README.md) · [13.3 Doc Tests →](03-doc-tests.md)
 
 # 13.2 — Integration Tests
 
@@ -530,4 +530,4 @@ Build what you need per test, or use a fixture helper (13.4).
 
 ---
 
-[← Course Index](../README.md)
+[← 13.1 Unit Tests and assert Macros](01-unit-tests.md) · [Course Index](../README.md) · [13.3 Doc Tests →](03-doc-tests.md)

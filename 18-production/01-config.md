@@ -1,4 +1,4 @@
-[← Course Index](../README.md)
+[← 17.13 Testing an Axum Application](../17-backend-axum/13-testing-axum.md) · [Course Index](../README.md) · [18.2 Logging and Tracing →](02-tracing.md)
 
 # 18.1 — Configuration and Environment
 
@@ -579,4 +579,4 @@ unless you copy it in, which you should not. Set real environment variables.
 
 ---
 
-[← Course Index](../README.md)
+[← 17.13 Testing an Axum Application](../17-backend-axum/13-testing-axum.md) · [Course Index](../README.md) · [18.2 Logging and Tracing →](02-tracing.md)
