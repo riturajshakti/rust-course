@@ -1,0 +1,4 @@
+.claude
+.vscode
+prompt*.txt
+.DS_Store
